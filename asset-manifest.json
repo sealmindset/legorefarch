@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/legorefarch/static/css/main.5680d73f.css",
+    "main.js": "/legorefarch/static/js/main.138b1693.js",
+    "static/js/787.39744f55.chunk.js": "/legorefarch/static/js/787.39744f55.chunk.js",
+    "index.html": "/legorefarch/index.html",
+    "main.5680d73f.css.map": "/legorefarch/static/css/main.5680d73f.css.map",
+    "main.138b1693.js.map": "/legorefarch/static/js/main.138b1693.js.map",
+    "787.39744f55.chunk.js.map": "/legorefarch/static/js/787.39744f55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5680d73f.css",
+    "static/js/main.138b1693.js"
+  ]
+}
