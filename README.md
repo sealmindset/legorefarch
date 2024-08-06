@@ -12,7 +12,7 @@ A React application that allows you to generate and visualize a security focused
 - Redo or unchages that were made.
 
 ## Known issues
-- Colors: The Undo/Redo can't handle the colors of each Block.
+
 
 ## The Goal
 To create an interactive tool powered by AI to create the referance architecture documentation.
